@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Sahil Ali
+## 👋 Hello! I'm SAHIL ALI.
 
 I'm a tech-driven MCA student passionate about building scalable, impactful solutions in app development, machine learning, and data analysis. I’m always exploring the latest in web tech, backend systems, and blockchain innovations.
 
