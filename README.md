@@ -20,6 +20,6 @@ I'm a tech-driven MCA student passionate about building scalable, impactful solu
 
 📫 **Connect with Me**
 - 💼 [LinkedIn](https://linkedin.com/in/sahilali8210)
-- [IG](https://www.instagram.com/sahilll._x)
+- 📷 [IG](https://www.instagram.com/sahilll._x)
 - 📧 [Email](mailto:alisahil8210@gmail.com)
 
