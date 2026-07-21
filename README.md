@@ -10,6 +10,25 @@
 
 </div>
 
+```console
+$ sahil --help
+
+  USAGE
+    sahil [command]
+
+  COMMANDS
+    about      who I am and what I build
+    journey    where I've been → where I'm headed
+    stack      technologies I work with
+    skills     honest self-assessment
+    stats      proof of work
+    contact    start a conversation
+
+  built with: curiosity, coffee, and a bias for shipping
+```
+
+### `$ sahil about`
+
 ```typescript
 const sahil = {
   role:      "Full Stack Software Developer @ Minu Marketing Pvt. Ltd.",
@@ -17,24 +36,21 @@ const sahil = {
   builds:    ["scalable web apps", "REST APIs", "automation platforms"],
   currently: "modernizing legacy systems → performance · security · reliability",
   exploring: "AI-powered solutions & workflow automation",
+  principle: "real business problems → reliable software",
 } as const;
 ```
 
-### `$ workflow --show`
+### `$ sahil journey`
 
 ```mermaid
-graph LR
-    A["💡 business problem"] --> B["📐 design"]
-    B --> C{"build"}
-    C -->|frontend| D["React · Tailwind"]
-    C -->|backend| E["Node · Django · FastAPI"]
-    C -->|data| F["Oracle · Postgres · Mongo"]
-    D --> G["🚀 ship & iterate"]
-    E --> G
-    F --> G
+timeline
+    section Education
+        BIT Mesra : MCA : foundations — algorithms, systems, databases
+    section Industry
+        Minu Marketing Pvt. Ltd. : Full Stack Developer : enterprise app modernization : REST APIs & automation platforms : AI-powered workflows
 ```
 
-### `$ stack --list`
+### `$ sahil stack`
 
 <details open>
 <summary><b>&nbsp;languages</b></summary>
@@ -88,17 +104,17 @@ graph LR
 ![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n)
 </details>
 
-### `$ skills --graph`
+### `$ sahil skills`
 
 ```text
 full-stack development   ████████████████████  expert
 rest api design          ███████████████████░  advanced
 database engineering     ██████████████████░░  advanced
-automation & ai          ████████████████░░░░  proficient
+automation & ai          ████████████████░░░░  proficient · leveling up
 devops & deployment      ███████████████░░░░░  proficient
 ```
 
-### `$ github --stats`
+### `$ sahil stats`
 
 <div align="center">
 
@@ -115,8 +131,20 @@ devops & deployment      ███████████████░░░�
 
 </div>
 
+### `$ sahil contact`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-sahil--ali27.netlify.app-00D9FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000)](https://sahil-ali27.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-sahilali8210-00D9FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/sahilali8210)
+[![Email](https://img.shields.io/badge/email-alisahil8210@gmail.com-00D9FF?style=flat-square&logo=gmail&logoColor=white&labelColor=000)](mailto:alisahil8210@gmail.com)
+
+</div>
+
 ---
 
 <div align="center">
 <sub><code>while (alive) { learn(); build(); ship(); }</code></sub>
+<br/><br/>
+<sub><code>$ exit 0 — thanks for stopping by</code></sub>
 </div>
