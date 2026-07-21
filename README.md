@@ -85,26 +85,6 @@ Automation & AI          ████████████████░░�
 DevOps & Deployment      ███████████████░░░░░
 ```
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlixSahil&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlixSahil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixSahil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-
-<img src="https://streak-stats.demolab.com?user=AlixSahil&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlixSahil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" width="95%"/>
-
-</div>
 
 ## 🐍 Contribution Snake
 
