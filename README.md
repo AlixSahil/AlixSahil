@@ -2,149 +2,73 @@
 
 # Sahil Ali
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%40+Minu+Marketing;Enterprise+apps+%7C+REST+APIs+%7C+AI+automation;Modernizing+legacy+systems+into+scalable+platforms)](https://git.io/typing-svg)
+**Full Stack Software Developer** · Enterprise Applications · AI Automation
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=googlechrome&logoColor=white)](https://sahil-ali27.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sahilali8210)
-[![Email](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:alisahil8210@gmail.com)
+Building scalable applications, modernizing legacy systems, and turning<br/>
+complex business requirements into reliable software.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=googlechrome&logoColor=white)](https://sahil-ali27.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sahilali8210)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:alisahil8210@gmail.com)
 
 </div>
 
-```console
-$ sahil --help
+---
 
-  USAGE
-    sahil [command]
+### About
 
-  COMMANDS
-    about      who I am and what I build
-    journey    where I've been → where I'm headed
-    stack      technologies I work with
-    skills     honest self-assessment
-    stats      proof of work
-    contact    start a conversation
+- 💼 Full Stack Developer at **Minu Marketing Pvt. Ltd.** — web apps, REST APIs, automation platforms
+- ⚙️ Modernizing legacy systems: performance, security, reliability
+- 🤖 Exploring AI-powered solutions and workflow automation
+- 🎓 MCA, BIT Mesra
 
-  built with: curiosity, coffee, and a bias for shipping
-```
+### Stack
 
-### `$ sahil about`
-
-```typescript
-const sahil = {
-  role:      "Full Stack Software Developer @ Minu Marketing Pvt. Ltd.",
-  education: "MCA — BIT Mesra",
-  builds:    ["scalable web apps", "REST APIs", "automation platforms"],
-  currently: "modernizing legacy systems → performance · security · reliability",
-  exploring: "AI-powered solutions & workflow automation",
-  principle: "real business problems → reliable software",
-} as const;
-```
-
-### `$ sahil journey`
-
-```mermaid
-timeline
-    section Education
-        BIT Mesra : MCA : foundations — algorithms, systems, databases
-    section Industry
-        Minu Marketing Pvt. Ltd. : Full Stack Developer : enterprise app modernization : REST APIs & automation platforms : AI-powered workflows
-```
-
-### `$ sahil stack`
-
-<details open>
-<summary><b>&nbsp;languages</b></summary>
-<br/>
-
+**Languages** &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
-</details>
 
-<details>
-<summary><b>&nbsp;frontend</b></summary>
-<br/>
-
+**Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
-</details>
 
-<details>
-<summary><b>&nbsp;backend</b></summary>
-<br/>
-
+**Backend** &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
-</details>
 
-<details>
-<summary><b>&nbsp;databases</b></summary>
-<br/>
-
+**Data** &nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-000?style=flat-square&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
-</details>
 
-<details>
-<summary><b>&nbsp;tooling</b></summary>
-<br/>
-
+**Tools** &nbsp;
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-000?style=flat-square&logo=oracle)
 ![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n)
-</details>
 
-### `$ sahil skills`
-
-```text
-full-stack development   ████████████████████  expert
-rest api design          ███████████████████░  advanced
-database engineering     ██████████████████░░  advanced
-automation & ai          ████████████████░░░░  proficient · leveling up
-devops & deployment      ███████████████░░░░░  proficient
-```
-
-### `$ sahil stats`
+### Stats
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlixSahil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixSahil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlixSahil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" width="95%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlixSahil/AlixSahil/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlixSahil/AlixSahil/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AlixSahil/AlixSahil/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
-### `$ sahil contact`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/portfolio-sahil--ali27.netlify.app-00D9FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=000)](https://sahil-ali27.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-sahilali8210-00D9FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/sahilali8210)
-[![Email](https://img.shields.io/badge/email-alisahil8210@gmail.com-00D9FF?style=flat-square&logo=gmail&logoColor=white&labelColor=000)](mailto:alisahil8210@gmail.com)
+<img src="https://raw.githubusercontent.com/AlixSahil/AlixSahil/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
 <div align="center">
-<sub><code>while (alive) { learn(); build(); ship(); }</code></sub>
-<br/><br/>
-<sub><code>$ exit 0 — thanks for stopping by</code></sub>
+<sub>Open to interesting problems and good conversations about software · <a href="https://sahil-ali27.netlify.app">sahil-ali27.netlify.app</a></sub>
 </div>
